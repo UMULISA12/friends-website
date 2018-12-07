@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+    background-image: url("https://www.updatepedia.com/wp-content/uploads/2016/02/Friends-Forever-Latest-Hindi-Dosti-Shayaris-1.jpg");
+background-size: cover;
+color:white;
+
+}
+
+h2{
+    text-align: center;
+    text-decoration-style: dotted;
+    color:#004d99;
+}
+
+    div {
+         text-align: center;
+         margin-top:10px;
+         }
+
+    ul { 
+        display: inline-block; 
+        text-align: left; 
+    }
+
